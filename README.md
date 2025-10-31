@@ -10,6 +10,13 @@ My music is just like me - always fresh, always daring, always new.
 
 Let's make something special together.
 
+## Skills
+- DAW: Logic Pro
+- Notation: Musescore
+- Composition, arrangement and orchestration
+- Coding: Python, Java
+- In the process of learning: Fmod/WWise
+
 ## Projects
 ### Currently ongoing projects (OST/Sound design) - coming soon:
 - [Game] Space explorer 
