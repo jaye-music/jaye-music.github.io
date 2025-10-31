@@ -27,23 +27,23 @@ Let's make something special together.
 - Glowkeeper (OST)
   - "Children of Light"    
   
-  <video src='https://github.com/user-attachments/assets/3729ce13-a30f-4f90-a04f-1dd540c85fc0'/>
+  https://github.com/user-attachments/assets/3729ce13-a30f-4f90-a04f-1dd540c85fc0
 
   - "The Glittering Past"
   
-  <video src='https://github.com/user-attachments/assets/7c301c09-2ff3-4962-8b0e-b6316b401588'/>
+  https://github.com/user-attachments/assets/7c301c09-2ff3-4962-8b0e-b6316b401588
 
   - "Rotary Thought"
   
-  <video src='https://github.com/user-attachments/assets/f83fa17c-3a70-47b0-849e-1d8b1639da25'/>
+  https://github.com/user-attachments/assets/f83fa17c-3a70-47b0-849e-1d8b1639da25
 
 - Time's Tapestry
 
-  <video src='https://github.com/user-attachments/assets/de492216-a247-48fa-8e08-a43d4d96020d'/>
+https://github.com/user-attachments/assets/de492216-a247-48fa-8e08-a43d4d96020d
 
 - Snippet of an upcoming work!
 
-  <video src='https://github.com/user-attachments/assets/e5eb11da-27cf-4945-8db9-fcfe14f39f22'/>
+https://github.com/user-attachments/assets/e5eb11da-27cf-4945-8db9-fcfe14f39f22
 
 ## Contact me:
 - Email: jayeymusic@gmail.com
