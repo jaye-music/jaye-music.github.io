@@ -16,7 +16,7 @@ Let's make something new together.
 - [Game] Solitaire roguelike 
 
 ### Previous projects:
-- [Glowkeeper](https://store.steampowered.com/app/3410660/Glowkeeper/) (OST)
+- [Game] [Glowkeeper](https://store.steampowered.com/app/3410660/Glowkeeper/) (OST)
 
 ## Contact
 - Email: jayeymusic@gmail.com
