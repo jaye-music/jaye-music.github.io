@@ -22,3 +22,4 @@ Let's make something new together.
 
 ## Contact
 - Email: jayeymusic@gmail.com
+- Discord: @glaciallic
