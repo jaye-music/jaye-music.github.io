@@ -6,7 +6,7 @@ I build things up from scratch. And when I don't like it, I do it all over again
 
 I'm never afraid to do that.
 
-My music is just like me - always fresh, always daring, always new.
+My music is just like me - always fresh, always daring.
 
 Let's make something special together!
 
