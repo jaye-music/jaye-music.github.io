@@ -6,12 +6,12 @@ I build things up from scratch. And when I don't like it, I break it down. I try
 
 I'm never afraid to do that.
 
-My music is just like me - always fresh, always new.
+My music is just like me - always fresh, always daring, always new.
 
-Let's make something new together.
+Let's make something special together.
 
 ## Projects
-### Currently ongoing projects (OST/Sound design) - coming soon... :
+### Currently ongoing projects (OST/Sound design) - coming soon:
 - [Game] Space explorer 
 - [Game] Boss rush 
 - [Game] Dungeon crawler 
