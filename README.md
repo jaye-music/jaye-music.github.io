@@ -34,28 +34,49 @@ Let's make something special together.
 - Glowkeeper (OST)
   - "Children of Light"    
 
+
+
   https://github.com/user-attachments/assets/8e1be7d5-29de-44d9-9383-9fc87c8807ed
-  
+
+
+
 
   - "The Glittering Past"
-  
+
+
+
   https://github.com/user-attachments/assets/aa2a9c34-a1a2-4a27-9bf0-2ac904ae95fb
-  
+
+
+
 
   - "Rotary Thought"
-  
+
+
+
   https://github.com/user-attachments/assets/0b33daf5-0874-432d-b74b-61fca4504c43
+
+
+
   
 
 - Time's Tapestry (original composition)
 
+
+
 https://github.com/user-attachments/assets/b89044dd-41c1-4565-a6bc-1cae27381fdd
+
+
 
 
 - Snippet of an upcoming work!
 
 
+
+
 https://github.com/user-attachments/assets/82a152ea-ca61-423d-a639-1f3e2de5d008
+
+
 
 
 ## Contact me:
