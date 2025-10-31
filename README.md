@@ -9,6 +9,7 @@ I'm never afraid to do that.
 My music is just like me - always fresh, always new.
 
 Let's make something new together.
+
 ## Projects
 ### Currently ongoing projects (OST/Sound design) - coming soon... :
 - [Game] Space explorer 
