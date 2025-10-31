@@ -1,14 +1,14 @@
 
-# Hi, this is JAYE.
+# Hi, this is JAYE!
 I am a multimedia composer who loves games and film. 
 
-I build things up from scratch. And when I don't like it, I break it down. I try again. 
+I build things up from scratch. And when I don't like it, I do it all over again, and again. 
 
 I'm never afraid to do that.
 
 My music is just like me - always fresh, always daring, always new.
 
-Let's make something special together.
+Let's make something special together!
 
 ## Skills
 - DAW: Logic Pro
@@ -25,57 +25,19 @@ Let's make something special together.
 - [Game] Solitaire roguelike 
 
 ### Previous projects:
-- [Game] [Glowkeeper](https://store.steampowered.com/app/3410660/Glowkeeper/) 
-  - 7 in-game original soundtracks
-- [Original composition] Time's Tapestry
+- [Game] [Glowkeeper (2025)](https://store.steampowered.com/app/3410660/Glowkeeper/) 
+  - Original soundtrack (OST) consisting of 7 individual in-game tracks
+- [Original composition] Time's Tapestry (2024)
+  - Composition for a quartet of flute, clarinet, cello and piano
   
 
-### Snippets of music
-- Glowkeeper (OST)
-  - "Children of Light"    
-
-
-
-  https://github.com/user-attachments/assets/8e1be7d5-29de-44d9-9383-9fc87c8807ed
-
-
-
-
-  - "The Glittering Past"
-
-
-
-  https://github.com/user-attachments/assets/aa2a9c34-a1a2-4a27-9bf0-2ac904ae95fb
-
-
-
-
-  - "Rotary Thought"
-
-
-
-  https://github.com/user-attachments/assets/0b33daf5-0874-432d-b74b-61fca4504c43
-
-
-
-  
-
-- Time's Tapestry (original composition)
-
-
-
-https://github.com/user-attachments/assets/b89044dd-41c1-4565-a6bc-1cae27381fdd
-
-
-
-
-- Snippet of an upcoming work!
-
-
-
-
-https://github.com/user-attachments/assets/82a152ea-ca61-423d-a639-1f3e2de5d008
-
+### Snippets of music:
+- Glowkeeper 
+  - ["Children of Light"](https://drive.google.com/file/d/1eGIWrnx07gXyN5fLqf3nocopeuPTGwT5/view?usp=sharing)    
+  - ["The Glittering Past"](https://drive.google.com/file/d/1Qk-hN9BdkXsGnoGexGUdHefMds5KcHSx/view?usp=sharing)
+  - ["Rotary Thought"](https://drive.google.com/file/d/1QW8nEJASmJzfq7t5cXgp81U-_W37Bb87/view?usp=sharing)
+- [Time's Tapestry (original composition)](https://drive.google.com/file/d/1Eom5PJpZMuUMCtqCS6xR53IXSb070NqN/view?usp=sharing)
+- [Snippet of an upcoming work!](https://drive.google.com/file/d/1b4RHT-_DnZqOorpGgZ9CD3418OinGs9N/view?usp=sharing)
 
 
 
