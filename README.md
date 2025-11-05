@@ -28,7 +28,7 @@ Let's make something special together!
 - [Game] [Glowkeeper (2025)](https://store.steampowered.com/app/3410660/Glowkeeper/) 
   - Original soundtrack (OST) consisting of 7 individual in-game tracks
 - [Original composition] Time's Tapestry (2024)
-  - Composition for a quartet of flute, clarinet, cello and piano
+  - Composition for a quartet of flute, clarinet, cello and piano + live recording
   
 
 ### Snippets of music:
