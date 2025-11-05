@@ -9,7 +9,7 @@ Let's make something special together!
 ## Skills
 - DAW: Logic Pro
 - Notation: Musescore
-- Composition, arrangement and orchestration
+- Composition, arrangement and orchestration and all things music-related!
 - Coding: Python, Java
 - In the process of learning: Fmod/WWise
 
