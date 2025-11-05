@@ -2,11 +2,7 @@
 # Hi, this is JAYE!
 I am a multimedia composer who loves games and film. 
 
-I build things up from scratch. And when I don't like it, I do it all over again, and again. 
-
-I'm never afraid to do that.
-
-My music is just like me - always fresh, always daring.
+I love building things up from scratch.  
 
 Let's make something special together!
 
@@ -18,7 +14,7 @@ Let's make something special together!
 - In the process of learning: Fmod/WWise
 
 ## Projects
-### Currently ongoing projects (OST/Sound design) - coming soon:
+### Currently ongoing projects (OST/Sound design) - coming soon!!:
 - [Game] Space explorer 
 - [Game] Boss rush 
 - [Game] Dungeon crawler 
@@ -40,12 +36,8 @@ Let's make something special together!
 - [Time's Tapestry (original composition)](https://drive.google.com/file/d/1Eom5PJpZMuUMCtqCS6xR53IXSb070NqN/view?usp=sharing)
 
 
-
-
 ## Contact me:
 - Email: jayeymusic@gmail.com
-- Discord: @glaciallic
-- Github: jaye-music
 
 
 
