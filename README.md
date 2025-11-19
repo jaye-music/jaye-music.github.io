@@ -2,15 +2,14 @@
 # Hi, this is JAYE!
 I am a multimedia composer who loves games and film. 
 
-I love building things up from scratch.  
-
-Let's make something special together!
+I love making things! Let's make something special together :)
 
 ## Skills
 - DAW: Logic Pro
 - Notation: Musescore
 - Composition, arrangement and orchestration and all things music-related!
 - Coding: Python, Java
+- DaVinci Resolve
 - In the process of learning: Fmod/WWise
 
 ## Projects
