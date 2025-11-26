@@ -27,7 +27,7 @@ I love making things! Let's make something special together :)
   
 
 ### Snippets of music:
-- Snippets of an upcoming works!
+- Snippets from upcoming works!
   - [Snippet 1](https://drive.google.com/file/d/1_EEreYDQYX9JICrjv7nODc7XAWjSlG7i/view?usp=sharing)
   - [Snippet 2](https://drive.google.com/file/d/1HnTfwHhbTf5h75Q5_Wula-IrIeJLALzQ/view?usp=sharing)
 - Glowkeeper (2025) 
