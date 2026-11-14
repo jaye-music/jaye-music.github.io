@@ -32,19 +32,18 @@ I love making things, let's make something special together!!
 - [5 Days To The End of The World](https://letterboxd.com/film/5-days-to-the-end-of-the-world/)
 
 ### Other original compositions
-- [Panopticon (2026)](https://drive.google.com/file/d/1VjHDo9f4PUMbIGGyyej_ovitk4rMvxkH/view?usp=sharing)
+- Panopticon (2026)
   - Solo piano work, commissioned as part of the precept.concept.percept XVI composer residency program, to be performed live in the Bled Contemporary Music Festival (2027)
-- [Lost At Sea (2026)](https://drive.google.com/file/d/1oYA6TL-kJjIqSdPRlIMGZZG4X-ZwCmtI/view?usp=sharing)
+  - [Score](https://drive.google.com/file/d/1VjHDo9f4PUMbIGGyyej_ovitk4rMvxkH/view?usp=sharing)
+- Lost At Sea (2026)
   - Orchestral work
-- [Time's Tapestry (2024)](https://drive.google.com/file/d/1cXFGug40Tdmimf_dXxV0Bw7EHgjCHpxO/view?usp=sharing)
-  - [Live recording](https://drive.google.com/file/d/1Eom5PJpZMuUMCtqCS6xR53IXSb070NqN/view?usp=sharing)
+  - [Score](https://drive.google.com/file/d/1oYA6TL-kJjIqSdPRlIMGZZG4X-ZwCmtI/view?usp=sharing)
+- [Down The Rabbit Hole (2025)](https://drive.google.com/file/d/1HKCA_j9noqjuiwcxIZuGVMoo55oiT7mq/view?usp=drivesdk)
+- [Lament's Echo (2025)](https://drive.google.com/file/d/1_EEreYDQYX9JICrjv7nODc7XAWjSlG7i/view?usp=sharing)
+- [All In (2025)](https://drive.google.com/file/d/1HnTfwHhbTf5h75Q5_Wula-IrIeJLALzQ/view?usp=sharing)
+- [Time's Tapestry (2024)](https://drive.google.com/file/d/1Eom5PJpZMuUMCtqCS6xR53IXSb070NqN/view?usp=sharing)
+  - [Score](https://drive.google.com/file/d/1cXFGug40Tdmimf_dXxV0Bw7EHgjCHpxO/view?usp=sharing)
   - Composition for a quartet of flute, clarinet, cello and piano + live recording
-  
-
-### Snippets of music:
-- Snippets from upcoming works!
-  - [Snippet 1](https://drive.google.com/file/d/1_EEreYDQYX9JICrjv7nODc7XAWjSlG7i/view?usp=sharing)
-  - [Snippet 2](https://drive.google.com/file/d/1HnTfwHhbTf5h75Q5_Wula-IrIeJLALzQ/view?usp=sharing)
 
 
 ## Contact me:
