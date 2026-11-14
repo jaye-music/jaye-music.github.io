@@ -2,14 +2,12 @@
 # Hi, this is JAYE!
 I am a multimedia composer who loves games and film. 
 
-I love making things! Let's make something special together :)
+I love making things, let's make something special together!!
 
 ## Skills
-- DAW: Logic Pro
+- DAW: Logic Pro, Ableton Live
 - Notation: Musescore
 - Composition, production, arrangement, orchestration and all things music-related!
-- Coding: Python, Java
-- DaVinci Resolve
 - In the process of learning: Fmod/WWise
 
 ## Previous/ongoing projects:
@@ -17,10 +15,16 @@ I love making things! Let's make something special together :)
 - [Glowkeeper (2025)](https://store.steampowered.com/app/3410660/Glowkeeper/) 
   - Original soundtrack (OST) consisting of 7 individual in-game tracks
   - Snippets:
-    - ["Children of Light"](https://drive.google.com/file/d/1eGIWrnx07gXyN5fLqf3nocopeuPTGwT5/view?usp=sharing)    
+    - ["Children of Light"](https://drive.google.com/file/d/1eGIWrnx07gXyN5fLqf3nocopeuPTGwT5/view?usp=sharing)  
     - ["The Glittering Past"](https://drive.google.com/file/d/1Qk-hN9BdkXsGnoGexGUdHefMds5KcHSx/view?usp=sharing)
     - ["Rotary Thought"](https://drive.google.com/file/d/1QW8nEJASmJzfq7t5cXgp81U-_W37Bb87/view?usp=sharing)
 - [Lights, Cards, Action! (tba)](https://store.steampowered.com/app/4546810/Lights_Cards_Action/)
+  - OST
+  - SFX
+- [thisisagame.exe (2026)](https://hacodesov.itch.io/thisisagame)
+  - OST
+  - SFX
+- Titanhome (tba)
   - OST
   - SFX
 
